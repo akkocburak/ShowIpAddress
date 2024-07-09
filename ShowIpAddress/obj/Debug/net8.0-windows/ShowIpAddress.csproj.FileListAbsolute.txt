@@ -1,0 +1,16 @@
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\bin\Debug\net8.0-windows\ShowIpAddress.exe
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\bin\Debug\net8.0-windows\ShowIpAddress.deps.json
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\bin\Debug\net8.0-windows\ShowIpAddress.runtimeconfig.json
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\bin\Debug\net8.0-windows\ShowIpAddress.dll
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\bin\Debug\net8.0-windows\ShowIpAddress.pdb
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.Form1.resources
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.AssemblyInfo.cs
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.dll
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\refint\ShowIpAddress.dll
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.pdb
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ShowIpAddress.genruntimeconfig.cache
+C:\Users\burak\source\repos\ShowIpAddress\ShowIpAddress\obj\Debug\net8.0-windows\ref\ShowIpAddress.dll

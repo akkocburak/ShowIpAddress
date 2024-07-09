@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowIpAddress", "ShowIpAddress\ShowIpAddress.csproj", "{D81D94B9-43DA-4884-8CF6-CF8EA831654A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup12", "Setup12\Setup12.vdproj", "{055E6D0D-297C-4F3A-9B81-24EE2FF64EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81D94B9-43DA-4884-8CF6-CF8EA831654A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81D94B9-43DA-4884-8CF6-CF8EA831654A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81D94B9-43DA-4884-8CF6-CF8EA831654A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81D94B9-43DA-4884-8CF6-CF8EA831654A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055E6D0D-297C-4F3A-9B81-24EE2FF64EBE}.Debug|Any CPU.ActiveCfg = Debug
+		{055E6D0D-297C-4F3A-9B81-24EE2FF64EBE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F13CB8-9DB8-4D15-A61D-1334C5C9FE37}
+	EndGlobalSection
+EndGlobal
